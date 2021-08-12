@@ -1,0 +1,62 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+
+
+
+
+
+
+html,
+body{
+    font-family: 'Lato', sans-serif;
+
+}
+
+#navbar{
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom:0px;
+}
+
+#footer{
+   padding-top: 7rem;
+    padding-left: 5rem;
+    background-color: #5B5B5B;
+    color: white;
+    margin-top: 5rem;
+}
+#header{
+   background-color: #EBEBEB;
+    padding-bottom: 0px;
+}
+
+#aboutme{
+    margin-top: 7rem;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    background-color: black;
+    color: white;
+}
+#Contact{
+    margin-top: 4rem;
+}
+
+#blog{
+    margin-top: 3rem;
+}
+
+#blogheading{
+    padding-bottom: 3rem;
+}
+
+.description{
+    margin-top: 2rem;
+}
